@@ -4,7 +4,7 @@
   "description": "boilerplate for kickstart your clean architecture node.js projects ( JavaScript+ Express + Sequelize + JWT and more )",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js",
+    "start": "node init && nodemon index.js",
     "test": "nodemon index.js"
   },
   "repository": {
